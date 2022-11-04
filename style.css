@@ -213,7 +213,7 @@ padding-left: 25px;
 .contents :hover
 {
         cursor: pointer;   
-    transform: scale(1.1);
+    transform: scale(.9);
 }
 .thumbnail
 {
